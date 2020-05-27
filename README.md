@@ -23,10 +23,9 @@ Lastly, you need to clone the frontend!
 
 For the backend:
 
-````cd mern-backend
+```cd mern-backend
 npm run devStart```
 
 For the frontend:
 ```cd mern-frontend
 npm start```
-````
