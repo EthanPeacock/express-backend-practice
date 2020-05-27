@@ -4,10 +4,13 @@ Put simply this is the backend for my first MERN Stack application.
 
 ## What is the MERN stack?
 
-**M ongoDB (Mongoose)**\n
-**E xpress**\n
-R eact\n
-N ode\n
+**M ongoDB (Mongoose)**
+
+**E xpress**
+
+R eact
+
+N ode
 
 ## How to setup (front+back end):
 
@@ -23,9 +26,13 @@ Lastly, you need to clone the frontend!
 
 For the backend:
 
-```cd mern-backend
-npm run devStart```
+```
+cd mern-backend
+npm run devStart
+```
 
 For the frontend:
-```cd mern-frontend
-npm start```
+```
+cd mern-frontend
+npm start
+```
