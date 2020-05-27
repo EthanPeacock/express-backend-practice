@@ -22,9 +22,11 @@ Lastly, you need to clone the frontend!
 ## How to run (font+back end)
 
 For the backend:
-`cd mern-backend`
-`npm run devStart`
+
+````cd mern-backend
+npm run devStart```
 
 For the frontend:
-`cd mern-frontend`
-`npm start`
+```cd mern-frontend
+npm start```
+````
