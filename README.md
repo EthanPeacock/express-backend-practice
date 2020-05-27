@@ -4,10 +4,10 @@ Put simply this is the backend for my first MERN Stack application.
 
 ## What is the MERN stack?
 
-**M ongoDB (Mongoose)**
-**E xpress**
-R eact
-N ode
+**M ongoDB (Mongoose)**\n
+**E xpress**\n
+R eact\n
+N ode\n
 
 ## How to setup (front+back end):
 
