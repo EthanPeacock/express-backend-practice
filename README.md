@@ -20,7 +20,7 @@ Secondly, you need to clone the backend!
 `git clone https://github.com/EthanPeacock/mern-backend.git`
 
 Lastly, you need to clone the frontend!
-`git clone <link>`
+`git clone https://github.com/EthanPeacock/mern-frontend.git`
 
 ## How to run (font+back end)
 
@@ -32,6 +32,7 @@ npm run devStart
 ```
 
 For the frontend:
+
 ```
 cd mern-frontend
 npm start
