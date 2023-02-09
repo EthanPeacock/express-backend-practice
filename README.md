@@ -1,7 +1,5 @@
 # MERN STACK APP - BACKEND
 
-Put simply this is the backend for my first MERN Stack application.
-
 ## What is the MERN stack?
 
 **M ongoDB (Mongoose)**
@@ -12,28 +10,13 @@ R eact
 
 N ode
 
-## How to setup (front+back end):
+## Run Locally
 
-Firstly, create a folder which will contain both the front and backend.
-
-Secondly, you need to clone the backend!
-`git clone https://github.com/EthanPeacock/mern-backend.git`
-
-Lastly, you need to clone the frontend!
-`git clone https://github.com/EthanPeacock/mern-frontend.git`
-
-## How to run (font+back end)
-
-For the backend:
+After cloning the project,
 
 ```
 cd mern-backend
 npm run devStart
 ```
 
-For the frontend:
-
-```
-cd mern-frontend
-npm start
-```
+See `example-dotenv.md` for details on environment variables.
